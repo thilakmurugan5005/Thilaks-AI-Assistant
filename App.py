@@ -17,7 +17,7 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 
 
 #===========================================================
-api_key = st.secrets["OPENAI_API_KEY"]
+OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
 
 
 # PDF must be in the same folder as this app.py
