@@ -1,7 +1,5 @@
-langchain_openai
-openai
-PyPDF2
-faiss-cpu
-langchain_community
 streamlit
-
+langchain-core
+langchain-openai
+langchain-text-splitters
+pypdf
